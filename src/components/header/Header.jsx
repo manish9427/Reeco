@@ -8,7 +8,7 @@ const Header = () => {
       <nav className="main-nav">
         <div className="first">
           <div>
-            <i>Recco</i>
+            <i>Reeco</i>
           </div>
           <div>Store</div>&nbsp;&nbsp;
           <div>Orders</div>&nbsp;&nbsp;
