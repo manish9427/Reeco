@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.main-header {
+  background-color: green;
+  color: white;
+  padding: 10px;
+}
+
+.main-nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.first {
+  width: 60%;
+  display: flex;
+  justify-content: space-around;
+}
+.second {
+  width: 20%;
+  display: flex;
+  justify-content: space-around;
+}

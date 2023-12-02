@@ -1,0 +1,58 @@
+div {
+  margin: 20px;
+}
+
+/* Search bar styles */
+div > div > div {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 8px;
+  margin-right: 8px;
+}
+
+button {
+  padding: 8px;
+  cursor: pointer;
+}
+
+/* Table styles */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+/* Action buttons styles */
+td button {
+  margin-right: 5px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+/* Icon styles */
+svg {
+  vertical-align: middle;
+}
+
+/* Image styles */
+td img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 50%;
+}
